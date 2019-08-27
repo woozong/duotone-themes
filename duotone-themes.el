@@ -20,6 +20,7 @@
 ;; Version: 0.1
 ;; License: GPL-3
 ;; Keywords: themes, faces
+;; Package-Requires: ((hsluv "1.0"))
 
 ;;; Commentary:
 
